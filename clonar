@@ -1,0 +1,4 @@
+Passo: Ir git bash e digitar
+git add .
+git commit -m "deixar comentário"
+git push
