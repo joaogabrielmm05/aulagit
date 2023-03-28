@@ -1,1 +1,2 @@
-Aula de guthub exemplo pull
+Aula de guthub exemplo pull - ir no git bash e codar (git pull)
+Alteração de arquivo
